@@ -1,0 +1,12 @@
+{
+    "name": "zakk/helloworld",
+    "description": "A simple greeter",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Zakk\\Helloworld\\": "src/"
+        }
+    },
+    "require": {}
+}
